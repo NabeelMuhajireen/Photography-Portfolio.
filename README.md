@@ -78,14 +78,6 @@ If you found this helpful, please consider:
 
 ⸻
 
-📬 Contact
-
-For custom edits, freelance inquiries, or support:
-📧 Email: nabeelmhuhajireen274@gmail.com
-
-
-⸻
-
 📃 License
 
 This project is open-source and available for personal and educational use.
